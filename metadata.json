@@ -1,0 +1,6 @@
+{
+  "name": "Muscleki AI",
+  "description": "Full-stack application layout for Muscleki AI",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
